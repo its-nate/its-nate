@@ -5,6 +5,8 @@ The things I build focus on their essence. I believe a site works best when it d
 
 I currently do contract and subcontract work through my company, [Holistic Web Solutions](https://holisticwebsolutions.com).
 
+You can learn more about me on [my website](https://itsnate.dev).
+
 <!--
 **its-nate/its-nate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
