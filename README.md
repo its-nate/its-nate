@@ -1,7 +1,4 @@
-### It's me, Nate.
-### I make cool websites.
-
-The things I build focus on their essence. I believe a site works best when it does what it’s supposed to in a simple, uncluttered way.
+### It's me, Nate. I make cool websites.
 
 I currently do contract and subcontract work through my company, [Holistic Web Solutions](https://holisticwebsolutions.com).
 
