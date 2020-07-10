@@ -1,5 +1,5 @@
 ### It's me, Nate.
-## I make cool websites.
+### I make cool websites.
 
 The things I build focus on their essence. I believe a site works best when it does what it’s supposed to in a simple, uncluttered way.
 
