@@ -1,4 +1,9 @@
-### Hi there 👋
+### It's me, Nate.
+## I make cool websites.
+
+The things I build focus on their essence. I believe a site works best when it does what it’s supposed to in a simple, uncluttered way.
+
+I currently do contract and subcontract work through my company, [Holistic Web Solutions](https://holisticwebsolutions.com).
 
 <!--
 **its-nate/its-nate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
