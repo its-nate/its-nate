@@ -2,7 +2,7 @@
 
 You can learn more about me [here](https://itsnate.dev).
 
-I currently do contract and subcontract work through my company, [Holistic Web Solutions](https://holisticwebsolutions.com).
+I'm a Frontend Developer at AndAlways and do contract and subcontract work through my company, [Holistic Web Solutions](https://holisticwebsolutions.com).
 
 <!--
 **its-nate/its-nate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
