@@ -1,4 +1,4 @@
-### It's me, Nate. I make cool websites.
+### It's me, Nate. I make digital things.
 
 You can learn more about me [here](https://itsnate.dev).
 
